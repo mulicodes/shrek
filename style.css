@@ -27,7 +27,7 @@ button {
   margin: 10px auto;
   padding: 10px 20px;
   border: none;
-  background-color: #ff7b7b;
+  background-color: #4CAF50;
   color: white;
   border-radius: 8px;
   cursor: pointer;
@@ -35,5 +35,5 @@ button {
 }
 
 button:hover {
-  background-color: #e55a5a;
+    background-color: #388E3C;
 }
