@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
-  background: #fceee3;
+  background: url('https://images5.alphacoders.com/499/thumb-1920-499486.jpg') no-repeat center center fixed;
+  background-size: cover;
   margin: 0;
   padding: 0;
   display: flex;
